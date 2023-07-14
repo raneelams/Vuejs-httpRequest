@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .DS_Store
 node_modules
 /dist
@@ -21,3 +22,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+=======
+node_modules
+>>>>>>> 5f6c761faef6b49cd4428bf8fe5b14ae4d4b24e8
